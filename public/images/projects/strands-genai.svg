@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg1)"/>
+  <circle cx="100" cy="80" r="25" fill="#FF9900" opacity="0.9"/>
+  <circle cx="200" cy="60" r="25" fill="#00D9FF" opacity="0.9"/>
+  <circle cx="300" cy="80" r="25" fill="#34A853" opacity="0.9"/>
+  <line x1="125" y1="80" x2="175" y2="65" stroke="#6366f1" stroke-width="3"/>
+  <line x1="225" y1="65" x2="275" y2="80" stroke="#6366f1" stroke-width="3"/>
+  <rect x="75" y="140" width="250" height="80" rx="10" fill="#232F3E" opacity="0.8"/>
+  <text x="200" y="175" text-anchor="middle" fill="#FF9900" font-family="Arial" font-size="16" font-weight="bold">Strands Agents SDK</text>
+  <text x="200" y="200" text-anchor="middle" fill="#29B5E8" font-family="Arial" font-size="12">Multi-Agent Orchestration</text>
+  <circle cx="100" cy="260" r="20" fill="#29B5E8" opacity="0.7"/>
+  <circle cx="200" cy="260" r="20" fill="#FF9900" opacity="0.7"/>
+  <circle cx="300" cy="260" r="20" fill="#34A853" opacity="0.7"/>
+  <text x="100" y="265" text-anchor="middle" fill="white" font-size="8">GitHub</text>
+  <text x="200" y="265" text-anchor="middle" fill="white" font-size="8">Transform</text>
+  <text x="300" y="265" text-anchor="middle" fill="white" font-size="8">Snowflake</text>
+</svg>

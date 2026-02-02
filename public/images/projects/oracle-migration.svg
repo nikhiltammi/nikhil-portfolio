@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg7)"/>
+  <text x="200" y="30" text-anchor="middle" fill="white" font-size="14" font-weight="bold">Oracle to AWS Glue Migration</text>
+  <rect x="30" y="50" width="120" height="80" rx="10" fill="#7f1d1d" stroke="#dc2626" stroke-width="2"/>
+  <text x="90" y="75" text-anchor="middle" fill="white" font-size="11" font-weight="bold">Oracle</text>
+  <text x="90" y="95" text-anchor="middle" fill="#fca5a5" font-size="10">PL/SQL</text>
+  <text x="90" y="115" text-anchor="middle" fill="#f87171" font-size="9">Legacy Procs</text>
+  <path d="M150 90 L180 90" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="180" y="45" width="100" height="90" rx="10" fill="#232F3E" stroke="#00D9FF" stroke-width="2"/>
+  <text x="230" y="70" text-anchor="middle" fill="#00D9FF" font-size="10" font-weight="bold">GenAI Agents</text>
+  <circle cx="210" cy="100" r="15" fill="#FF9900" opacity="0.8"/>
+  <circle cx="250" cy="100" r="15" fill="#10b981" opacity="0.8"/>
+  <text x="230" y="125" text-anchor="middle" fill="#94a3b8" font-size="8">Conversion</text>
+  <path d="M280 90 L310 90" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="310" y="50" width="70" height="80" rx="10" fill="#065f46" stroke="#22c55e" stroke-width="2"/>
+  <text x="345" y="75" text-anchor="middle" fill="white" font-size="11" font-weight="bold">AWS</text>
+  <text x="345" y="95" text-anchor="middle" fill="#86efac" font-size="10">Glue</text>
+  <text x="345" y="115" text-anchor="middle" fill="#22c55e" font-size="9">Java Jobs</text>
+  <rect x="50" y="155" width="300" height="125" rx="10" fill="#1e293b"/>
+  <text x="200" y="180" text-anchor="middle" fill="#f59e0b" font-size="11" font-weight="bold">Automated Workflow</text>
+  <rect x="70" y="195" width="60" height="30" rx="5" fill="#3b82f6"/>
+  <text x="100" y="214" text-anchor="middle" fill="white" font-size="9">Extract</text>
+  <path d="M130 210 L145 210" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="145" y="195" width="60" height="30" rx="5" fill="#8b5cf6"/>
+  <text x="175" y="214" text-anchor="middle" fill="white" font-size="9">Convert</text>
+  <path d="M205 210 L220 210" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="220" y="195" width="60" height="30" rx="5" fill="#f59e0b"/>
+  <text x="250" y="214" text-anchor="middle" fill="white" font-size="9">Validate</text>
+  <path d="M280 210 L295 210" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="295" y="195" width="55" height="30" rx="5" fill="#10b981"/>
+  <text x="322" y="214" text-anchor="middle" fill="white" font-size="9">Deploy</text>
+  <text x="200" y="260" text-anchor="middle" fill="#22c55e" font-size="11">80% Reduction in Manual Effort</text>
+</svg>

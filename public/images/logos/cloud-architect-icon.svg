@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="cloudBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="24" fill="url(#cloudBg)"/>
+  <!-- Cloud shape -->
+  <path d="M85 70H40c-8.3 0-15-6.7-15-15 0-7.5 5.5-13.7 12.7-14.8C39.5 31.5 47.5 25 57 25c11 0 20 8.2 21.5 18.8C86.3 45.3 92 52.2 92 60.5 92 66 89 70 85 70z" fill="white" opacity="0.95"/>
+  <!-- Server lines inside cloud -->
+  <rect x="35" y="50" width="35" height="4" rx="2" fill="#3b82f6"/>
+  <rect x="35" y="58" width="25" height="4" rx="2" fill="#3b82f6"/>
+  <!-- Connection dots -->
+  <circle cx="80" cy="85" r="6" fill="white" opacity="0.8"/>
+  <circle cx="60" cy="90" r="5" fill="white" opacity="0.6"/>
+  <circle cx="40" cy="85" r="4" fill="white" opacity="0.5"/>
+</svg>

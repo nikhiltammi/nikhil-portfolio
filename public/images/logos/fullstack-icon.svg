@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="stackBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="24" fill="url(#stackBg)"/>
+  <!-- Frontend layer -->
+  <rect x="20" y="22" width="80" height="22" rx="6" fill="white" opacity="0.95"/>
+  <text x="60" y="38" text-anchor="middle" fill="#059669" font-family="Arial" font-size="12" font-weight="bold">Frontend</text>
+  <!-- API layer -->
+  <rect x="20" y="49" width="80" height="22" rx="6" fill="white" opacity="0.75"/>
+  <text x="60" y="65" text-anchor="middle" fill="#059669" font-family="Arial" font-size="12" font-weight="bold">API</text>
+  <!-- Backend layer -->
+  <rect x="20" y="76" width="80" height="22" rx="6" fill="white" opacity="0.55"/>
+  <text x="60" y="92" text-anchor="middle" fill="#059669" font-family="Arial" font-size="12" font-weight="bold">Backend</text>
+</svg>

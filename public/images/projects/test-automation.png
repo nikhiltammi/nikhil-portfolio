@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg3)"/>
+  <rect x="30" y="40" width="150" height="100" rx="10" fill="#1e293b" stroke="#6366f1" stroke-width="2"/>
+  <text x="105" y="65" text-anchor="middle" fill="#a5b4fc" font-size="12" font-weight="bold">Requirements</text>
+  <rect x="45" y="80" width="120" height="10" rx="3" fill="#4f46e5" opacity="0.5"/>
+  <rect x="45" y="95" width="100" height="10" rx="3" fill="#4f46e5" opacity="0.5"/>
+  <rect x="45" y="110" width="110" height="10" rx="3" fill="#4f46e5" opacity="0.5"/>
+  <path d="M180 90 L220 90" stroke="#10b981" stroke-width="3" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#10b981"/></marker></defs>
+  <rect x="220" y="40" width="150" height="100" rx="10" fill="#232F3E" stroke="#FF9900" stroke-width="2"/>
+  <text x="295" y="65" text-anchor="middle" fill="#FF9900" font-size="12" font-weight="bold">AWS Bedrock</text>
+  <circle cx="260" cy="100" r="20" fill="#00D9FF" opacity="0.8"/>
+  <circle cx="295" cy="100" r="20" fill="#FF9900" opacity="0.8"/>
+  <circle cx="330" cy="100" r="20" fill="#10b981" opacity="0.8"/>
+  <text x="295" y="135" text-anchor="middle" fill="#94a3b8" font-size="9">Multi-Agent System</text>
+  <rect x="115" y="180" width="170" height="100" rx="10" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+  <text x="200" y="205" text-anchor="middle" fill="#10b981" font-size="12" font-weight="bold">Generated Tests</text>
+  <rect x="130" y="220" width="20" height="20" rx="3" fill="#10b981"/>
+  <text x="160" y="235" fill="white" font-size="10">test_login_valid()</text>
+  <rect x="130" y="245" width="20" height="20" rx="3" fill="#10b981"/>
+  <text x="160" y="260" fill="white" font-size="10">test_api_response()</text>
+  <path d="M295 140 L200 180" stroke="#f59e0b" stroke-width="2"/>
+</svg>

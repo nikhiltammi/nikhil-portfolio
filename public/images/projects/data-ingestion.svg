@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg8)"/>
+  <text x="200" y="30" text-anchor="middle" fill="white" font-size="14" font-weight="bold">Real-Time Data Ingestion</text>
+  <rect x="30" y="55" width="80" height="60" rx="8" fill="#1e3a5f"/>
+  <text x="70" y="80" text-anchor="middle" fill="white" font-size="10">Data</text>
+  <text x="70" y="95" text-anchor="middle" fill="#3b82f6" font-size="9">Sources</text>
+  <path d="M110 85 L145 85" stroke="#f59e0b" stroke-width="2" stroke-dasharray="4"/>
+  <rect x="145" y="50" width="100" height="70" rx="10" fill="#7c2d12" stroke="#f97316" stroke-width="2"/>
+  <text x="195" y="75" text-anchor="middle" fill="white" font-size="11" font-weight="bold">Kinesis</text>
+  <text x="195" y="95" text-anchor="middle" fill="#fed7aa" font-size="9">Real-time</text>
+  <text x="195" y="110" text-anchor="middle" fill="#fb923c" font-size="9">Streaming</text>
+  <path d="M245 85 L280 85" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="280" y="50" width="90" height="70" rx="10" fill="#232F3E" stroke="#FF9900" stroke-width="2"/>
+  <text x="325" y="75" text-anchor="middle" fill="#FF9900" font-size="11" font-weight="bold">S3</text>
+  <text x="325" y="95" text-anchor="middle" fill="white" font-size="9">Data Lake</text>
+  <rect x="100" y="145" width="90" height="60" rx="8" fill="#4c1d95"/>
+  <text x="145" y="170" text-anchor="middle" fill="white" font-size="10" font-weight="bold">ECS</text>
+  <text x="145" y="190" text-anchor="middle" fill="#c4b5fd" font-size="9">ML Pipelines</text>
+  <rect x="210" y="145" width="90" height="60" rx="8" fill="#065f46"/>
+  <text x="255" y="170" text-anchor="middle" fill="white" font-size="10" font-weight="bold">Lambda</text>
+  <text x="255" y="190" text-anchor="middle" fill="#86efac" font-size="9">Processing</text>
+  <path d="M325 120 L325 145 L255 145" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M325 145 L145 145" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="130" y="225" width="140" height="55" rx="10" fill="#1e3a5f" stroke="#3b82f6" stroke-width="2"/>
+  <text x="200" y="250" text-anchor="middle" fill="white" font-size="11" font-weight="bold">Redshift</text>
+  <text x="200" y="270" text-anchor="middle" fill="#60a5fa" font-size="9">Analytics Warehouse</text>
+  <path d="M145 205 L145 225" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M255 205 L255 225" stroke="#94a3b8" stroke-width="2"/>
+</svg>
