@@ -596,7 +596,7 @@ const ShowcaseSection = () => {
       `}</style>
 
       <section
-        id="work"
+        id="projects"
         ref={sectionRef}
         className="py-12 sm:py-16 lg:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden relative"
         style={theme === 'light' ? { backgroundColor: '#f9fafb' } : { backgroundColor: '#000' }}
