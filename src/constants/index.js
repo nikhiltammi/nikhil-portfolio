@@ -80,9 +80,7 @@ const techStackImgs = [
 const techStackIcons = [
   {
     name: "GenAI Engineer",
-    modelPath: "/models/python-transformed.glb",
-    scale: 0.8,
-    rotation: [0, 0, 0],
+    imgPath: "/images/logos/python.svg",
   },
   {
     name: "Cloud Architect",
@@ -90,9 +88,7 @@ const techStackIcons = [
   },
   {
     name: "Software Engineer",
-    modelPath: "/models/react_logo-transformed.glb",
-    scale: 1,
-    rotation: [0, 0, 0],
+    imgPath: "/images/logos/software-icon.svg",
   },
   {
     name: "Full-Stack Developer",
@@ -100,9 +96,7 @@ const techStackIcons = [
   },
   {
     name: "DevOps Engineer",
-    modelPath: "/models/docker.glb",
-    scale: 1,
-    rotation: [0, Math.PI / 4, 0],
+    imgPath: "/images/logos/devops-icon.svg",
   },
 ];
 
