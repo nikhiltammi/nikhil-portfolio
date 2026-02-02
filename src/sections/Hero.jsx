@@ -252,7 +252,7 @@ const Hero = () => {
 
   return (
     <section
-      id="hero"
+      id="about"
       className="relative overflow-hidden min-h-screen pt-24 md:pt-28 lg:pt-28"
       style={theme === 'light' ? { backgroundColor: '#ffffff', color: '#000' } : { backgroundColor: '#000', color: '#fff' }}
     >

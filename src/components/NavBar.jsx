@@ -66,7 +66,7 @@ const NavBar = () => {
           {/* Logo */}
           <a 
             className="logo" 
-            href="#hero" 
+            href="#about" 
             onClick={handleNavClick} 
             style={theme === 'light' ? { color: '#000' } : {}}
           >
@@ -155,7 +155,7 @@ const NavBar = () => {
             <a
               className="text-2xl font-bold"
               style={{ color: 'var(--text-primary)' }}
-              href="#hero"
+              href="#about"
               onClick={handleNavClick}
             >
               Nikhil Kumar Tammi
